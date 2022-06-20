@@ -1,4 +1,7 @@
 # Atomatizacao-Nota-Fiscal
+
+## Objetivos
+
 Projeto Criado Para Automatizar o processo de Download de Xml. via site Portal da Fazenda, utilizando Python (Jupyter)
 
 ## Antes De Começar 
